@@ -2,6 +2,8 @@
 
 This is a decentralized application (DApp) built with Next.js that allows users to create and vote on proposals. The entire process is managed by a smart contract on the Polygon Amoy test network, ensuring transparency and immutability.
 
+**[Live Demo](https://proposal-voting-app.vercel.app/)**
+
 ## Features
 
 -   **Wallet Integration**: Seamlessly connect to various crypto wallets using [RainbowKit](https://www.rainbowkit.com/).
@@ -12,6 +14,10 @@ This is a decentralized application (DApp) built with Next.js that allows users 
 -   **User-Friendly Transaction Modals**: Informative modals guide the user through transaction states (Pending, Confirming, Success, Error).
 -   **Responsive Design**: A clean and modern UI that works across all devices.
 -   **Dark/Light Mode**: Switch between themes for your viewing comfort.
+
+## Live Demo
+
+You can access the live application here: **[https://proposal-voting-app.vercel.app/](https://proposal-voting-app.vercel.app/)**
 
 ## How It Works
 
